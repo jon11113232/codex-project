@@ -1,0 +1,7 @@
+{
+  "name": "My Codex Project",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jon1113232/codex-project.git"
+  }
+}
