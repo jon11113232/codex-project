@@ -1,0 +1,9 @@
+{
+  "name": "codex-project",
+  "version": "1.0.0",
+  "description": "Codex project setup",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
