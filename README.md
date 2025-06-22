@@ -1,9 +1,10 @@
-# Codex Project
+# codex-project
 
-This repository is set up for using with GitHub Codex.
+This repository is configured for GitHub Codex.
 
-## Getting Started
-1. Open this folder in GitHub Desktop
-2. Commit the initial files
-3. You can now use Codex!
-# Enable GitHub Codex
+## Setup
+This repository has been initialized with:
+- Git repository
+- GitHub remote
+- Initial commits
+- Codex configuration
